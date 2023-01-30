@@ -1,1 +1,1 @@
-# paho-mqtt-example
+# paho-mqtt-demo
